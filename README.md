@@ -1,5 +1,14 @@
 ### Hi there 👋
+My name is **Jeki**.<br>
+I am **a student of the Information Technology** at [STMIK Palangkaraya].<br>
 
+If you're interested in getting to know me, feel free to follow my [Linkedin] (https://www.linkedin.com/in/jeki-164b31249/)
+<p align="left">
+<a href="https://github.com/jekibaringei">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **jekibaringei/jekibaringei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
