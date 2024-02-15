@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is **Jeki**.<br>
-I am **a student of the Information Technology** at [STMIK Palangkaraya].<br>
+I am **a student of the Informatics Engineering** at [STMIK Palangkaraya].<br>
 
 If you're interested in getting to know me, feel free to follow my [Linkedin] (https://www.linkedin.com/in/jeki-164b31249/)
 <p align="left">
