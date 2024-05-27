@@ -2,7 +2,7 @@
 My name is **Jeki**.<br>
 I am **a student of the Informatics Engineering** at [STMIK Palangkaraya].<br>
 
-If you're interested in getting to know me, feel free to follow my [Linkedin] (https://www.linkedin.com/in/jeki-164b31249/)
+If you're interested in getting to know me, feel free to follow my [Linkedin] (https://www.linkedin.com/in/jekibaringei/)
 <p align="left">
 <a href="https://github.com/jekibaringei">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jekibaringei&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
